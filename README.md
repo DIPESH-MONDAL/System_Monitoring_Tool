@@ -1,6 +1,6 @@
 # 🖥️ System Monitoring Tool
 
-A comprehensive **GUI-based system monitoring application** built with Python that provides real-time keystroke logging and automated screenshot capture capabilities. Designed for system administrators, security professionals, and organizations requiring employee activity monitoring.
+A  **System monitoring application** built with Python that provides real-time keystroke logging and automated screenshot capture capabilities.
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
