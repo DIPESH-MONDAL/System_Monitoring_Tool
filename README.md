@@ -31,6 +31,10 @@ A  **System monitoring application** built with Python that provides real-time k
 ```bash
 pip install pillow pynput tkinter
 ```
+### Run
+```bash
+python keylogger_gui.py
+```
 
 ## 🛠️ Technical Specifications
 
